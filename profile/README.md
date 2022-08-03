@@ -1,4 +1,4 @@
-![Dapplets Project](profile/banner.png)
+![Dapplets Projects](https://user-images.githubusercontent.com/51093278/182502707-ef4503e7-5483-425f-b1b8-54f88a968858.png)
 
 Dapplets Project is an open-source Augmented Web platform for building decentralized applications (dapplets), powered by crypto technologies.
 
