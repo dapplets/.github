@@ -46,7 +46,7 @@ Our developers are available to help you realize your idea, find a team, or to a
 
 We’re always open to partnerships or collaborations, send us your offers and ideas - [business@dapplets.org](mailto:business@dapplets.org)
 
-##Main Repositories
+## Main Repositories
 
 [GitHub - dapplets/dapplet-extension: Dapplet Browser Extension](https://github.com/dapplets/dapplet-extension)
 
@@ -54,6 +54,6 @@ We’re always open to partnerships or collaborations, send us your offers and i
 
 [GitHub - dapplets/dapplet-modules: Dapplet Extension: Examples of Using](https://github.com/dapplets/dapplet-modules) 
 
-##Download the Dapplets Extension
+## Download the Dapplets Extension
 
 [Releases · dapplets/dapplet-extension](https://github.com/dapplets/dapplet-extension/releases) 
