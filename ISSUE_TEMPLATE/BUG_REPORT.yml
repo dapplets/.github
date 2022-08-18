@@ -1,5 +1,5 @@
 name: Bug Report
-description: File a bug report
+description: Create a report to help us improve
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees:
@@ -25,7 +25,7 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: version
     attributes:
       label: Version
