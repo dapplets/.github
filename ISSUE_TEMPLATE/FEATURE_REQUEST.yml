@@ -1,0 +1,50 @@
+name: Feature Request
+description: Suggest an idea for this project
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+assignees:
+  - alsakhaev
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of our software are you running?
+      placeholder: 0.1.0
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem do you want to solve?
+      description: Please explain your use case in as much detail as possible.
+      placeholder: Currently...
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What do you think is the correct solution?
+      description: Please explain what do you want to change to address the problem.
+      placeholder: I'd like to...
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional comments
+      description: Is there anything else that's important for the team to know?
+    validations:
+      required: false
